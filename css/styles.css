@@ -41,6 +41,13 @@
     }
 }
 
+.text-red {
+    color: rgba(255, 85, 85, 0.925);
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
 .container {
     width: 60%;
     margin: auto;
