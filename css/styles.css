@@ -1,5 +1,6 @@
 * {
     font-family: 'Poppins', sans-serif;
+    font-size: 14px;
     background-color: #f6f8f9;
     color: #434851;
     margin: 0;
@@ -31,5 +32,36 @@ button:active {
 }
 
 .buttons {
+    margin-bottom: 20px;
+}
+
+.font-size-medium {
+    font-size: 18px;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.inline {
+    display: inline;
+}
+
+.item {
+    margin: 10px 0px;
+}
+
+.tag {
+    color: white;
+    font-size: 8px;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.bg-azure {
+    background-color: #09a9ed;
+}
+
+.margin-bottom-20 {
     margin-bottom: 20px;
 }
