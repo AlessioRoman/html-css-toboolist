@@ -1,6 +1,35 @@
 * {
     font-family: 'Poppins', sans-serif;
+    background-color: #f6f8f9;
+    color: #434851;
     margin: 0;
     padding: 0;
 }
 
+#logo {
+    margin: 20px 0px 30px 20px;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+button {
+    padding: 5px;
+    border: solid 1px;
+    border-radius: 5px;
+    border-color: #d7dcdf;
+}
+
+button:hover {
+    background-color: #edeff1;
+}
+
+button:active { 
+    background-color: #14aaf5;
+}
+
+.buttons {
+    margin-bottom: 20px;
+}
