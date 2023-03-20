@@ -64,7 +64,7 @@ button:hover {
     background-color: #edeff1;
 }
 
-button:focus { 
+button:active { 
     background-color: #14aaf5;
 }
 
