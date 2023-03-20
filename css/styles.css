@@ -47,6 +47,22 @@ button:active {
     display: inline;
 }
 
+.status {
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    border: solid 1px;
+    border-radius: 50%;
+}
+
+.text-grey {
+    color: #39cab0;
+}
+
+.text-red {
+    color: #ff3030;
+}
+
 .item {
     margin: 10px 0px;
 }
